@@ -1,0 +1,88 @@
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400);
+
+
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { 
+	font-family: "Open Sans", Arial, sans-serif;
+	font-style: italic;		
+	background-color: #f5e0ea;
+	height: 100%;
+}
+
+h1, h2, h3 {
+	padding: 15px 0px;
+	font-family: "Great Vibes", cursive;
+	color: #73264d;
+}
+
+h1 {
+	font-size: 40px; 
+}
+
+a {
+	color: #73264d;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #73264d;
+}
+
+#centerColumn {
+	position: relative;
+	width: 1000px;
+	background-color: #faeecf;
+	margin: 0px auto;
+	min-height: 100%;
+	border-right: 4px solid #73264d;
+	border-left: 4px solid #73264d;
+	margin-top: -100px;
+	margin-bottom: -283px;
+	z-index: 10;
+}
+
+#name {
+	font-size: 70px;
+	line-height: 100px;
+	text-align: center;
+	padding: 0px;
+	height:100px;
+}
+
+footer {
+}
+
+#location {
+	float: right;
+}
+
+article {
+	padding: 15px;
+}
+
+#top-flair {
+	width: 100%;
+	background: #73264d;
+	height: 100px;
+}
+
+#bottom-flair {
+	width: 100%;
+	position: absolute;
+	height: 283px;
+	background: url('/assets/grass.png') repeat;
+	z-index: 0;
+}
+

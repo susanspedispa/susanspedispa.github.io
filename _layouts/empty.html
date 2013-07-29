@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+		<style>
+			#centerColumn {
+				min-height: 100px;
+				margin-bottom: 0px;
+			}
+			body {
+				overflow: hidden;
+			}
+		</style>
+    </head>
+    <body>
+    	<div id="top-flair"></div>
+		<section id="centerColumn">
+			<header>
+				<h1 id="name"><a href="/">Susan's Pedi Spa</a></h1>
+			</header>
+		</section>
+		{{content}}
+	</body>
+</html>
