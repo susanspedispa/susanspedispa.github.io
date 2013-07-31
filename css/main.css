@@ -43,7 +43,7 @@ a:visited {
 #centerColumn {
 	position: relative;
 	width: 1000px;
-	background-color: #faeecf;
+	background-color: white;
 	margin: 0px auto;
 	min-height: 100%;
 	border-right: 4px solid #73264d;
