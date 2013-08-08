@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400);
 
 
 /*****************************************************************************/
@@ -16,15 +16,14 @@
 
 html, body { 
 	font-family: "Open Sans", Arial, sans-serif;
-	font-style: italic;		
-	background-color: #f5e0ea;
-	height: 100%;
+	font-style: normal;		
+	background: url('/assets/images/plaster.png');
 }
 
 h1, h2, h3 {
 	padding: 15px 0px;
 	font-family: "Great Vibes", cursive;
-	color: #73264d;
+	color: rgb(87, 20, 42);
 }
 
 h1 {
@@ -32,26 +31,28 @@ h1 {
 }
 
 a {
-	color: #73264d;
+	color: rgb(87, 20, 42);
 	text-decoration: none;
 }
 
 a:visited {
-	color: #73264d;
+	color: rgb(87, 20, 42);
+}
+
+
+
+header {
+	text-align: center;
+	padding: 10px 0px;
 }
 
 #centerColumn {
 	position: relative;
-	width: 1000px;
-	background-color: white;
+	width: 900px;
+	background: url('/assets/images/frosted.png');
 	margin: 0px auto;
-	min-height: 100%;
-	border-right: 4px solid #73264d;
-	border-left: 4px solid #73264d;
-	margin-top: -100px;
-	margin-bottom: -283px;
-	z-index: 0;
-	padding-bottom: 283px;
+	z-index: 1;
+	margin-top: -210px;
 }
 
 #name {
@@ -60,6 +61,41 @@ a:visited {
 	text-align: center;
 	padding: 0px;
 	height:100px;
+}
+
+nav, #band {
+	
+	width: 100%;
+	height: 40px;
+	background: rgb(87, 20, 42);
+}
+
+nav {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 0px 10px;
+	margin: 10px -10px;
+}
+
+nav a, nav a:visited {
+	margin-left: 10px;
+	line-height: 35px;
+	font-size: 18px;
+	color: white;
+}
+
+nav #social {
+	float: right;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+nav #social img {
+	border: none;
+}
+
+
+#band {
+	margin-top: 170px;
 }
 
 footer {
@@ -73,17 +109,12 @@ article {
 	padding: 15px;
 }
 
-#top-flair {
-	width: 100%;
-	background: #73264d;
-	height: 100px;
-}
 
 #bottom-flair {
 	width: 100%;
 	position: absolute;
 	height: 283px;
 	background: url('/assets/grass.png') repeat;
-	z-index: 1;
+	z-index: 0;
 }
 
