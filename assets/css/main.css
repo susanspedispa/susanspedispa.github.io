@@ -26,6 +26,10 @@ h1, h2, h3 {
 	color: rgb(87, 20, 42);
 }
 
+h3 {
+	font-size: 30px;
+}
+
 h1 {
 	font-size: 40px; 
 }
@@ -49,7 +53,7 @@ header {
 #centerColumn {
 	position: relative;
 	width: 900px;
-	background: url('/assets/images/frosted.png');
+	background: url('/assets/images/frosted.png') center;
 	margin: 0px auto;
 	z-index: 1;
 	margin-top: -210px;
@@ -94,12 +98,27 @@ nav #social img {
 }
 
 
+footer a, footer a:visited {
+	margin-left: 10px;
+	line-height: 35px;
+	font-size: 18px;
+	color: white;
+}
+
+footer #social {
+	float: right;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+footer #social img {
+	border: none;
+}
+
+
 #band {
 	margin-top: 170px;
 }
 
-footer {
-}
 
 #location {
 	float: right;
@@ -114,7 +133,47 @@ article {
 	width: 100%;
 	position: absolute;
 	height: 283px;
-	background: url('/assets/grass.png') repeat;
+	background: url('/assets/grass.png') center;
 	z-index: 0;
 }
 
+footer {
+	background: url('/assets/frostedGrass.png') center;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 283px;
+	margin-bottom: -283px;
+	position: relative;
+	z-index: 1;
+}
+
+#footerStrip {
+	background: rgb(87, 20, 42); 
+	position: absolute; 
+	bottom: 0px; 
+	width: 900px;
+	margin-left: -10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 0px 10px;
+	color: white;
+}
+
+.halfColumn {
+	width: 430px;
+	float: left;
+}
+
+.treatment {
+	margin-bottom: 15px;
+}
+
+.treatmentName {
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+.treatmentDescription {
+	font-style: italic;
+}
