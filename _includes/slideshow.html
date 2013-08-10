@@ -1,0 +1,54 @@
+<div id="slideholder">
+<div id="slideshow">
+	
+</div>
+
+	<div id="next"></div>
+	<div id="prev"></div>
+</div>
+<div id="slidedescription">
+	<h3 style="color:white; text-align: center" id="slideName"></h3>
+	<p id="slideDetails" style="color:white; padding: 10px;"></p>
+</div>
+
+<div style="display:none">
+	<img id="img1" src="/assets/images/slideshow/tuscan.jpg">
+	<img id="img2" src="/assets/images/slideshow/tahitian.jpg">
+	<img id="img3" src="/assets/images/slideshow/arabian.jpg">
+</div>
+
+<script>
+	var description = [
+		{
+			"name":"Tuscan Wine Therapy",
+			"description":"Our treatment is enriched with red wine powder, red grape seed extract, crushed grape seeds and pure grape seed oil. Taking our cue from the rolling hills of Tuscany, our products incorporate golden olive oil, Mediterranean honey and pure blackberry fibers."
+		},
+		{
+			"name":"Tropical Nectar",
+			"description":"Treat yourself to a lush feast of tropical fruits with this innovative treatment infused with the power of real mangoes, papayas, pineapples and coconut milk. Soak, scrub, condition and moisturize with these island-inspired luxuries. Completely natural, deliciously fresh and supremely decadent."			
+		},
+		{
+			"name":"Dead Sea Arabian Renewal",
+			"description":"This luxurious treatment which combines a wealth of indigenous Arabian ingredients: pomegranate oil, crushed dates, rose water, yogurt, sweet figs with pure Dead Sea Salts and Mud to relieve muscle tension, deeply detoxify the skin saturating it with potent antioxidants."			
+		},
+		
+	]
+	function loadEntry(page) {
+		document.getElementById("slideName").innerHTML = description[page]["name"];
+		document.getElementById("slideDetails").innerHTML = description[page]["description"];
+	}
+	loadEntry(0);
+
+	var slideshow = vp.viewPager(document.getElementById("slideshow"));
+	slideshow.addPage(document.getElementById("img1"))
+				.addPage(document.getElementById("img2"))
+				.addPage(document.getElementById("img3"))
+				.addCallback("pageChange", function(page) { loadEntry(page) })
+	document.getElementById("next").onclick = function() { slideshow.next() }
+	document.getElementById("prev").onclick = function() { slideshow.prev() }
+	
+	window.setInterval(function() {
+		slideshow.next();
+	}, 10000)
+</script>
+

@@ -17,6 +17,10 @@
 html, body { 
 	font-family: "Open Sans", Arial, sans-serif;
 	font-style: normal;		
+	background: rgb(87, 20, 42);
+}
+#page {
+	
 	background: url('/assets/images/plaster.png');
 }
 
@@ -116,7 +120,9 @@ footer #social img {
 
 
 #band {
+	position: relative;
 	margin-top: 170px;
+	z-index: 0;
 }
 
 
@@ -176,4 +182,39 @@ footer {
 
 .treatmentDescription {
 	font-style: italic;
+}
+
+#slidedescription{
+	float: right;
+	width: 290px;
+	height: 580px;
+	background: rgb(87, 20, 42); 
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+#slideshow {
+	position: relative;
+	width: 580px;
+	height: 580px;
+	float: left;
+}
+
+
+#slideholder {
+	position: absolute;
+}
+
+#next, #prev {
+	width: 50px;
+	height: 580px;
+	position: absolute;
+	
+}
+#next {
+	right: 0px;
+	
+}
+
+#prev {
+	left: 0px;
 }
