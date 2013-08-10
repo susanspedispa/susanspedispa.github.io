@@ -38,17 +38,27 @@
 		document.getElementById("slideDetails").innerHTML = description[page]["description"];
 	}
 	loadEntry(0);
-
+	var userClick = false;
 	var slideshow = vp.viewPager(document.getElementById("slideshow"));
 	slideshow.addPage(document.getElementById("img1"))
 				.addPage(document.getElementById("img2"))
 				.addPage(document.getElementById("img3"))
 				.addCallback("pageChange", function(page) { loadEntry(page) })
-	document.getElementById("next").onclick = function() { slideshow.next() }
-	document.getElementById("prev").onclick = function() { slideshow.prev() }
+	document.getElementById("next").onclick = function() { slideshow.next(); userClick = true; }
+	document.getElementById("prev").onclick = function() { slideshow.prev(); userClick = true; }
 	
-	window.setInterval(function() {
-		slideshow.next();
-	}, 10000)
+	function autoScroll(oldTime) {
+		var delay = 2000;
+		var currentTime = (new Date()).getTime();
+		if(userClick) {
+			userClick = false;
+			window.setTimeout(function(){ autoScroll(currentTime)}, delay)
+		} else if(currentTime - oldTime > 10000) {
+			slideshow.next();
+			window.setTimeout(function(){ autoScroll(currentTime)}, delay)
+		} else
+			window.setTimeout(function(){ autoScroll(oldTime)}, delay)
+	}
+	autoScroll((new Date()).getTime());
 </script>
 
