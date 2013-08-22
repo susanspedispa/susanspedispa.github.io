@@ -221,3 +221,21 @@ footer {
 #prev {
 	left: 0px;
 }
+
+.five-star {
+	width: 125px;
+	height: 26px;
+	background: url("/assets/images/star.png");
+	float: left;
+}
+
+.customerName {
+	float: left;
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+.reviewquotes {
+	clear: both;
+	margin-bottom: 30px;
+}
