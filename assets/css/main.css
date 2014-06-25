@@ -221,6 +221,11 @@ footer {
     font-size: 40px;
 }
 
+.fs-product-choices > ul > li {
+    width: 430px;
+    float: left;
+}
+
 .new-section > ul > .new-section {
     width: 100%;
 }
