@@ -216,6 +216,11 @@ footer {
     width: 430px;
 }
 
+#fs-main > h2 {
+    clear: both;
+    font-size: 40px;
+}
+
 .new-section > ul > .new-section {
     width: 100%;
 }
