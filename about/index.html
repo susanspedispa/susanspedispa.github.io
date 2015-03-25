@@ -1,0 +1,20 @@
+---
+layout: default
+title: About | Susan's Pedi Spa
+---
+<article>
+{% include about.html %}
+</article>
+<article>
+<h1>Who we are:</h1>
+
+{% for person in site.profiles %}{% for page in site.pages %}{% if page.datatype == 'profile' %}{% if page.title == person %}
+	<div class='user' style='float:left; margin-bottom: 20px'>
+        <div style="float:left">{% if page.picture %}<img src="{{page.picture}}" class='userPic'/>{% endif %}</div>
+		<div class="userProfile"><a href="{{site.url}}{{page.url | replace: "index.html" ""}}"><h3>{{ page.title }}</h3></a></div>
+		<div class="userBio">
+			{{ page.abstract }}
+		</div>
+        <span style='clear:both; height: 20px; width: 100%; position: relative'>&nbsp;</span>
+	</div><div style='clear:both'></div>{% endif %}{% endif %}{% endfor %}{% endfor %}
+</article>

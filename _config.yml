@@ -1,3 +1,12 @@
-name: Your New Jekyll Site
+name: Susan's Pedi Spa
 highlighter: pygments
 makdown: kramdown
+
+profiles:
+  - Susan
+  - Michele
+  - Schyenne
+
+phone_number: "(928) 362-0525"
+address: "604 N. Beaver St., Flagstaff, AZ 86001"
+email: "susanspedispa@gmail.com"
