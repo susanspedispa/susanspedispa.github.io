@@ -5,9 +5,7 @@ datatype: profile
 title: Susan
 picture: susan/profile.png
 abstract: >
-  Hello this is my abstract.
-  It can span more than one line, but line-breaks will not be reflected in the
-  result.
+  Susan is passionate about offering the best possible service and continues to look for ways to improve her skills and create a Spa her clients love coming back to.
 ---
 <p>
 I would like to introduce the Proprietor, Susan Bolyen. Born in the sleepy Napa Valley of California, she spent her formative year's right here in Arizona, down the hill in Cottonwood. As a young woman she attended Northern Arizona University for a short time, before serving her country as a member of the United States Air Force during the Liberation of Kuwait.</p>
