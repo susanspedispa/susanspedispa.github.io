@@ -238,6 +238,11 @@ footer {
     background: white;
 }
 
+.fs-embed .fs-instructions {
+  font-weight: bold !important;
+  font-size: 1.2em !important;
+}
+
 #slidedescription{
 	float: right;
 	width: 290px;
