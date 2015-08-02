@@ -241,6 +241,8 @@ footer {
 .fs-embed .fs-instructions {
   font-weight: bold !important;
   font-size: 1.2em !important;
+  color: red;
+  text-align: center;
 }
 
 #slidedescription{
