@@ -1,0 +1,50 @@
+menu:
+- position: left
+  groups:
+    - name: Fizzy Bella Pedicures
+      treatments:
+        - name: Toased Almond Biscotti Pedicure
+          price: $3.50
+          description: >
+            A long winded description here
+        - name: Snickerdoodle Pedicure
+          price: $3.50
+          description: >
+            A long winded description here
+
+- position: right
+  groups:
+    - name: Standard Pedicures
+      treatments:
+        - name: Standard Pedicure
+          price: $3.50
+          description: >
+            a description here
+        - name: Weekly Pedicure
+          price: $3.50
+          description: >
+            a description here
+
+    - name: Clinical Pedicures
+      treatments:
+        - name: Clinical Initial
+          price: $3.50
+          description: >
+            a description here
+        - name: Clinical Return
+          price: $3.50
+          description: >
+            a description here
+        - name: Dry Foot Renewal
+          price: $3.50
+          description: >
+            a description here
+
+- position: center
+  groups:
+    - name: Shellac Pedicures
+      treatments:
+        - name: Hot Towel Shellac Pedicure
+          price: $3.50
+          description: >
+            a descption here
