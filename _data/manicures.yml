@@ -1,0 +1,16 @@
+menu:
+- position: center
+  groups:
+    - name: Manicure
+      treatments:
+        - name: Name Here
+          price: $3.50
+          description: >
+            a descption here
+
+    - name: Manicure Addons
+      treatments:
+        - name: Name Here
+          price: $3.50
+          description: >
+            a descption here

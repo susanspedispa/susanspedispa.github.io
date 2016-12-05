@@ -1,0 +1,41 @@
+menu:
+- position: left
+  groups:
+    - name: Hair Group 1
+      treatments:
+        - name: name
+          price: $3.50
+          description: >
+            A long winded description here
+        - name: name
+          price: $3.50
+          description: >
+            A long winded description here
+
+- position: right
+  groups:
+    - name: Hair Group 2
+      treatments:
+        - name: name
+          price: $3.50
+          description: >
+            a description here
+        - name: name
+          price: $3.50
+          description: >
+            a description here
+
+    - name: Hair Group 3
+      treatments:
+        - name: name
+          price: $3.50
+          description: >
+            a description here
+        - name: name
+          price: $3.50
+          description: >
+            a description here
+        - name: name
+          price: $3.50
+          description: >
+            a description here
