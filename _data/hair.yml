@@ -1,16 +1,29 @@
 menu:
 - position: left
   groups:
-    - name: Hair Group 1
+    - name: Hair Cuts
       treatments:
-        - name: name
-          price: $3.50
+        - name: Hair Cut
+          price: $30.00
           description: >
             A long winded description here
-        - name: name
-          price: $3.50
+        - name: Hair Cut, Deep Condition & Style
+          price: $65.00
           description: >
             A long winded description here
+        - name: Kid's Cut (7-12yrs)
+          price: $20.00
+          description: >
+            A long winded description here
+        - name: Men's Clipper Cut
+          price: $15.00
+          description: >
+            A long winded description here
+        - name: Men's Scissor Cut
+          price: $25.00
+          description: >
+            A long winded description here
+
 
 - position: right
   groups:
