@@ -99,4 +99,21 @@ menu:
           description: >
             Pamper your feet in with a warm water soak, delightful scrub on your legs and feet and extended massage 
             after the Shellac Polish has been applied to toes. Please know that this service will take close to 
-            90 minutes so please plan accordingly.             
+            90 minutes so please plan accordingly.      
+- position: center
+  groups:
+    - name: Foot Massage
+      treatments:
+        - name: 30 Minute - Tired Legs & Feet
+          price: $35.00
+          description: >
+             Do your feet need a little TLC? This will make them feel right as rain. Sit back and relax in our massage 
+             chair for a 10 min foot soak then receive a 10 minute massage on each lower leg and foot. ** No Polish or Nail Care**          
+        - name: 30 Min - Tired Legs & Feet w/Polish
+          price: $40.00
+          description: >
+             Feet in need of a little TLC? This will make them feel right as rain. Sit back enjoy our new HumanTouch 
+             massage chair while your feet relax in our tension releasing foot soak then receive a 10 minute massage 
+             on each lower leg and foot. Afterwords we will polish your nails to perfection!                    
+            
+            
