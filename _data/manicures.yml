@@ -1,0 +1,39 @@
+menu:
+- position: center
+  groups:
+    - name: Manicure
+      treatments:
+        - name: Standard Manicure
+          price: $32.00
+          description: >
+            Shape nails, push back cuticles, lotion application and polish.
+        - name: Shellac Manicure
+          price: $40.00
+          description: >
+            Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.            
+        - name: Shellac French Manicure
+          price: $55.00
+          description: >
+            A lovely classic french manicure done with Shellac polish, shape nails, cuticle push-back polish 
+            and light moisturizing massage. Your tips can be done in the traditional white or a color of your choice.
+            
+    - name: Manicure Addons
+      treatments:
+        - name: Gel Polish Removal (ADD-ON)
+          price: up to $25.00
+          description: >
+            If you are coming in for your first Shellac manicure and have had a gel polish applied at another salon 
+            please select this add-on. This allows for the extra time and care necessary to remove the gel polish without
+            harming your natural nails. Once you have established service with us this will not be need unless polish 
+            is applied at a different salon.
+        - name: IBX Nail Strengthener (ADD-ON)
+          price: $15.00-$10.00
+          description: >
+            two-part system that acts as a Protective Shield for the natural nail under any Gel Polish Coating and can 
+            also be used as a Natural Nail Strengthening System to grow natural nails more readily on their own! IBX is the 
+            first system of it's kind...this penetrative toughening system works inside the nail (instead of top), is cured 
+            with LED light and forms an interpenetrating polymer network that fuses the upper layers of the nail together.               
+        - name: Nail Art (ADD-ON)
+          price: up to $15.00
+          description: >
+            Hand painted, glitter, stamped, pigments, crystals... 

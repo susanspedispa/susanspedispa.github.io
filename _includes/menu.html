@@ -1,7 +1,26 @@
-<p>Below is a list of services that are offered at Susan's Pedi Spa.</p>
-<ul>
-    <ul><a href='pedicures/'>Pedicures</a></ul>
-    <ul><a href='manicures/'>Manicures</a></ul>
-    <ul><a href='facials/'>Facials</a></ul>
-    <ul><a href='waxes/'>Waxes</a></ul>
-</ul>
+{% include bookBanner.html %}
+{% for section in include.menu %}
+	{% if section.position == 'left' %}
+	<div class="halfColumn">
+	{% elsif section.position == 'right' %}
+	<div class="halfColumn" style="margin-left: 10px;">
+	{% else %}
+	<div>
+	{% endif %}
+
+	{% for group in section.groups %}
+		<h3>{{ group.name }}</h3>
+		{% for treatment in group.treatments %}
+			<div class="treatment">
+			<span class="treatmentName"><a href="/book">{{ treatment.name }}</a></span><span class="treatmentPrice">{{ treatment.price }}</span>
+			<div class="treatmentDescription">{{ treatment.description }}</div>
+			</div>
+		{% endfor %}
+	{% endfor %}
+
+	</div>
+	{% if section.position == 'right' %}
+	<div style="clear:both"></div>
+	{% endif %}
+{% endfor %}
+{% include bookBanner.html %}
