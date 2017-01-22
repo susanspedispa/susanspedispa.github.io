@@ -4,43 +4,43 @@ menu:
     - name: Fizzy Bella Pedicures
       treatments:
         - name: Toased Almond Biscotti Pedicure
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
             If you love the smell of sweet almonds you are going to love this pedicure! 
             And who knows during December I have been known to make Biscotti so if you book 
             this one you might get an extra treat!
         - name: Snickerdoodle Pedicure
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
             Snickerdoodles are just fun to say, eat and well now, to smell like! Enjoy the holidays without eating the calories!
     - name: Signature Pedicures
       treatments:
         - name: Citrus-Honey Smoother
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
            A revitalizing treatment with the richness of honey and the exfoliating benefits of citrus extracts 
            which function as natural alpha hydroxyl acids, leaving your skin soft, supple and amazingly moisturized.
         - name: Orange Dreamsicle
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
            Start with a sweet orange soak, then indulge in our uplifting organic vanilla orange brown sugar scrub blended 
            with Ayurvedic oils that will leave your skin gently exfoliated and highly moisturized. Then we finish with a 
            vanilla lotion and massage.
         - name: The Neapolitan Pedi
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
            A  a relaxing French Vanilla soak followed by our cocoa scrub that contains French absolute, chocolate extract, and 
            organic cocoa powder to remove all that winter has left behind and prepare your skin for our amazing silk and honey 
            Wild Berry lotion which will be slowly massaged into your legs and feet. When you leave you and your feet will feel 
            refreshed and rejuvenated!
         - name: Tuscan Bouquet
-          price: $75.00
+          price: $70.00 - $75.00
           description: >
            Unwind with the scents a of Lavender, Chamomile, Bergamot, Sandalwood, Vanilla and White Rose essential oils. 
            All known to help ease stress and relax tension out of the body. This pedicure comes with a dead sea salt soak, 
            an all organic brown sugar scrub and Ayurvedic lotion foot massage which is deeply moisturizing, amazingly relaxing!
         - name: Vanilla Mocha Latte
-          price: $65.00
+          price: $60.00 - $65.00
           description: >
            This blend of fair trade, organically grown Ethiopian & Indonesian coffee beans and absolute is mixed with our 
            French cocoa bubble bath and topped off our silk & honey vanilla lotion.The perfect pedicure when you and your 
@@ -51,12 +51,12 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: $50.00
+          price: $45.00 - $50.00
           description: >
             Soak, trim and shape nails, cuticle clean up, callus smoothing, massage and polish. 
             A standard pedicure is designed as a maintenance pedicure. - (@60 min.) 
         - name: Weekly Pedicure
-          price: $60.00
+          price: $55.00 - $60.00
           description: >
             One of our Signature pedicures is placed on special and modified into a "smoother pedicure".
 
