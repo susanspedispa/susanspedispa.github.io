@@ -77,7 +77,13 @@ menu:
             have worked for you thus far, add if there are any new issues to address. If we have discussed adding 
             a B/S Brace please schedule a second appt just after this one so we have enough time or email me a note 
             so that I can be sure we have the time needed.
-
+    - name: Add-Ons
+      treatments:
+        - name: Aloe Vera Paraffin Dip - Hands
+          price: $7.00
+          description: >
+            Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
+            infused warm paraffin wax designed to moisturize and sooth sore dry hands.            
 
 - position: center
   groups:
