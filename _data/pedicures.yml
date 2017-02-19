@@ -84,6 +84,16 @@ menu:
           description: >
             Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
             infused warm paraffin wax designed to moisturize and sooth sore dry hands.            
+        - name: 10 Min. Extra Massage
+          price: $12.00
+          description: >
+            Treat your legs and feet to an extra long massage. This will be in addition to the massage already included 
+            with your pedicure.            
+        - name: 20 Min. Extra Massage
+          price: $24.00
+          description: >
+            Treat your legs and feet to an extra long and relaxing massage. This will be in addition to the massage already included 
+            with your pedicure. Your legs and feet will love the added attention!
 
 - position: center
   groups:
