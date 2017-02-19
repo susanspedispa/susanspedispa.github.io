@@ -15,7 +15,7 @@ menu:
             
     - name: Manicure Add-ons
       treatments:
-         - name: Aloe Vera Paraffin Dip - Hands
+        - name: Aloe Vera Paraffin Dip - Hands
           price: $7.00
           description: >
             Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
