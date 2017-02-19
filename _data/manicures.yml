@@ -13,8 +13,13 @@ menu:
             Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.            
 
             
-    - name: Manicure Addons
+    - name: Manicure Add-ons
       treatments:
+         - name: Aloe Vera Paraffin Dip - Hands
+          price: $7.00
+          description: >
+            Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
+            infused warm paraffin wax designed to moisturize and sooth sore dry hands.   
         - name: Gel Polish Removal (ADD-ON)
           price: up to $25.00
           description: >
