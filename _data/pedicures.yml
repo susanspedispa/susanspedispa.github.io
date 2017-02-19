@@ -3,23 +3,24 @@ menu:
   groups:
     - name: Fizzy Bella Pedicures
       treatments:
-        - name: Toased Almond Biscotti Pedicure
+        - name: Orange Blossom
           price: $60.00 - $65.00
           description: >
-            If you love the smell of sweet almonds you are going to love this pedicure! 
-            And who knows during December I have been known to make Biscotti so if you book 
-            this one you might get an extra treat!
+           The fresh invigorating scent of sweet orange blossoms will sooth your skin and indulge your senses!
         - name: Spring Garden
           price: $60.00 - $65.00
           description: >
             Enduldge in the lovely and inviting scent of a floral spring basket.  
     - name: Signature Pedicures
       treatments:
-        - name: Citrus-Honey Smoother
+        - name: Lavendar Lace Pedicure (Coming Soon)
           price: $60.00 - $65.00
           description: >
-           A revitalizing treatment with the richness of honey and the exfoliating benefits of citrus extracts 
-           which function as natural alpha hydroxyl acids, leaving your skin soft, supple and amazingly moisturized.
+           Relax your body and mind with our fresh new Lavender Pedicure. First soak in the restorative properties of the;
+           Dead Sea,  Mineral salts, Epsom salts and essential oils. Then we will whisk away old dry skin with our soothing 
+           salt scrub which contains Lavender, Green Tea, and St. Johns Wart to aid in reducing stress and anxiety. 
+           Finally, we will massage away any left over stress in your legs and feet using our unique blend of Ayurveda oils 
+           to balancing the body.
         - name: Orange Dreamsicle
           price: $60.00 - $65.00
           description: >
