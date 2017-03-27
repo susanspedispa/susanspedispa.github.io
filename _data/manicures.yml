@@ -40,7 +40,8 @@ menu:
         - name: Fingernail Art
           price: $5.00 +
           description: >
-            You can request nail art, please have something in mind when you arrive such as photos etc.
+            You can request nail art, which includes stamping, handpainting, crystals, stenciles, please have something 
+            in mind when you arrive such as photos etc.
         - name: Gel Polish Removal (ADD-ON)
           price: up to $25.00
           description: >
@@ -53,7 +54,7 @@ menu:
           description: >
             A fun technique that changes any regular Shellac manicure into something really special!
         - name: IBX Nail Strengthener (ADD-ON)
-          price: $15.00-$10.00
+          price: $15.00
           description: >
             two-part system that acts as a Protective Shield for the natural nail under any Gel Polish Coating and can 
             also be used as a Natural Nail Strengthening System to grow natural nails more readily on their own! IBX is the 
@@ -62,4 +63,12 @@ menu:
         - name: Paradise Color Add-On
           price: $10.00
           description: >
-          A fun chrome color added to your manicure. To view the color: https://tinyurl.com/kn22o35 
+            A fun chrome color added to your manicure. To view the color: https://tinyurl.com/kn22o35.
+        - name: Strengthen Treatment
+          price: $17.00
+          description: >
+            We will use the revolutionary IBX system on your nails that will begin the reseal the layers of your nail back 
+            together. If you are getting a Shellac Manicure we will use the new Dura-Force Top Coat to protect your nails
+            from breakage. For a regular  Manicure we will use the  7-1 Wonder Nail Recovery  that will act as a protective
+            shield and leave your nails feeling and looking amazing.
+
