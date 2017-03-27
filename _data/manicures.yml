@@ -19,7 +19,28 @@ menu:
           price: $7.00
           description: >
             Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
-            infused warm paraffin wax designed to moisturize and sooth sore dry hands.   
+            infused warm paraffin wax designed to moisturize and sooth sore dry hands.
+        - name: Anti-Aging Treatment (coming soon)
+          price: $25.00
+          description: >
+            Our special anti-aging moisturizing complex nourishes the skin  using marine collagen, d-panthenol, 
+            stem cells from sea fennel to create a velvety soft feeling. We pair that with advanced LED technology 
+            to help the nutrients penetrate into the dermis  reducing wrinkles, creating smoother skin, improving 
+            collagen and circulation.
+        - name: Deep Hydration Treatment
+          price: $7.00
+          description: >
+            Do you suffer from dry cracks on your fingers or hands? Our deeply moisturizing urea cream treatment followed 
+            by a hydrating mask and then the soothing warmth of our moisturizing Aloe infused paraffin dip will help the healing 
+            process and make your hands look and feel better.
+        - name: Fantasy Color Add-On 
+          price: $10.00
+          description: >
+            A fun chrome color added to your manicure. To view the color: https://tinyurl.com/khgx6jy
+        - name: Fingernail Art
+          price: $5.00 +
+          description: >
+            You can request nail art, please have something in mind when you arrive such as photos etc.
         - name: Gel Polish Removal (ADD-ON)
           price: up to $25.00
           description: >
@@ -27,6 +48,10 @@ menu:
             please select this add-on. This allows for the extra time and care necessary to remove the gel polish without
             harming your natural nails. Once you have established service with us this will not be need unless polish 
             is applied at a different salon.
+        - name: Glitter or Pigments added to Shellac
+          price: 
+          description: >
+            A fun technique that changes any regular Shellac manicure into something really special!
         - name: IBX Nail Strengthener (ADD-ON)
           price: $15.00-$10.00
           description: >
@@ -34,7 +59,7 @@ menu:
             also be used as a Natural Nail Strengthening System to grow natural nails more readily on their own! IBX is the 
             first system of it's kind...this penetrative toughening system works inside the nail (instead of top), is cured 
             with LED light and forms an interpenetrating polymer network that fuses the upper layers of the nail together.               
-        - name: Nail Art (ADD-ON)
-          price: up to $15.00
+        - name: Paradise Color Add-On
+          price: $10.00
           description: >
-            Hand painted, glitter, stamped, pigments, crystals... 
+          A fun chrome color added to your manicure. To view the color: https://tinyurl.com/kn22o35 
