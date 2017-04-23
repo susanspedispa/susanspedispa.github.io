@@ -68,8 +68,7 @@ menu:
         - name: Lash & Brow Tint
           price: $35.00
           description:  
-          
-- position: right  
+           
   groups:
     - name: Massage Therapy
       treatments:
