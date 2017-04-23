@@ -1,15 +1,53 @@
 menu:
 - position: left
   groups:
-    - name: Hair Cuts & Styling
+    - name: Waxing Treatments
       treatments:
-        - name: Hair Cut
-          price: $30.00
-          description: >
+        - name: Eyebrows
+          price: $18.00
+          description: 
 
-        - name: Hair Cut, Deep Condition & Style
-          price: $65.00
-          description: >
+        - name: Eyebrows & Lip
+          price: $30.00
+          description: 
+          
+        - name: Lip
+          price: $12.00
+          description: 
+          
+        - name: Lip & Chin
+          price: $25.00
+          description: 
+          
+        - name: Chin
+          price: $15.00
+          description:
+          
+        - name: Underarms
+          price: $30.00
+          description: 
+          
+        - name: Lower Arms
+          price: $40.00
+          description:
+          
+        - name: Lower Legs
+          price: $45.00
+          description: 
+          
+        - name: Full Legs
+          price: $70.00
+          description: 
+          
+        - name: Feet & Toes
+          price: $12.00
+          description: 
+        - name: Eyebrows & Lip
+          price: $30.00
+          description: 
+        - name: Eyebrows & Lip
+          price: $30.00
+          description: 
 
         - name: Kid's Cut (7-12yrs)
           price: $20.00
