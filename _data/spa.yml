@@ -67,46 +67,57 @@ menu:
 
         - name: Lash & Brow Tint
           price: $35.00
+          description:  
+          
+- position: right  
+  groups:
+    - name: Massage Therapy
+      treatments:
+        - name: 30 Min. Therapeutic Massage
+          price: $35.00
+          description:
+        - name: 60 Min. Therapeutic Massage
+          price: $65.00
+          description:         
+        - name: 90 Min. Therapeutic Massage
+          price: $95.00
+          description:           
+        - name: 
+          price: 
           description: 
-
-
 
 - position: center
   groups:
-    - name: Hair Color
+    - name: Skin Care
       treatments:
-        - name: PLEASE SCHEDULE FREE CONSULTATION FIRST
-          price: FREE
+        - name: 
+          price: 
           description: >
-            Please schedule a free consultation first, so we can meet and discuss what you would like to your hair
-            to look like and we have the opportunity to see the conditon of your hair before we start chemically treating it.
-        - name: Deep Shine Glazing Treatment
-          price: $45.00
+            
+        - name: 
+          price: $.00
           description: >
-            Joico LumiShine transforms hair from the inside out with breakthrough ArgiPlex Technology,
-            delivering astonishing shine, color longevity, and overall healthier hair—guaranteed! Your hair will
-            have up to twice the shine. Its nourishing protection that seals in moisture, softness and shine for up
-            to 30 full shampoos leaving your hair 100% replenished and strengthened.
-        - name: Full Head - Single Color - Short Hair
-          price: $60.00
+            .
+        - name: 
+          price: $.00
           description: >
 
-        - name: Full Head Single Color - Med. Hair
-          price: $80.00
+        - name: 
+          price: $.00
           description: >
 
-        - name: Full Head Single Color - Long Hair
-          price: $100.00
+        - name: 
+          price: $.00
           description: >
 
-        - name: Retouch - Single Color
-          price: $45.00
+        - name: 
+          price: $.00
           description: >
 
-        - name: Hair Cut (Add-On) To Color Service
-          price: $20.00
+        - name: 
+          price: $.00
           description: >
 
-        - name: Hair Color Correction
-          price: $30.00/per hour
+        - name: 
+          price: $
           description: >
