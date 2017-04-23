@@ -69,7 +69,6 @@ menu:
           price: $35.00
           description:  
            
-  groups:
     - name: Massage Therapy
       treatments:
         - name: 30 Min. Therapeutic Massage
