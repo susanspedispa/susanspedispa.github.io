@@ -1,0 +1,95 @@
+menu:
+- position: left
+  groups:
+    - name: Hair Cuts & Styling
+      treatments:
+        - name: Hair Cut
+          price: $30.00
+          description: >
+
+        - name: Hair Cut, Deep Condition & Style
+          price: $65.00
+          description: >
+
+        - name: Kid's Cut (7-12yrs)
+          price: $20.00
+          description: >
+
+        - name: Men's Clipper Cut
+          price: $15.00
+          description: >
+
+        - name: Shampoo, Deep Condition & Blow-Out
+          price: $50.00
+          description: >
+            No matter what shape your hair is in, help is on the way. Our special Moroccan hydrating mask will turn your tired,
+            dry hair into smooth silky locks. The deep penetrating Argon oil replaces the moisture thats been lost, gives your
+            hair that beautiful shine back and helps it to regain the elasticity you need to keep it from breaking. It's a MUST
+            for everyone hair during these cold dry winter months.
+
+
+
+- position: right
+  groups:
+    - name: Highlights
+      treatments:
+        - name: PLEASE SCHEDULE FREE CONSULTATION FIRST
+          price: FREE
+          description: >
+            Please schedule a free consultation first, so we can meet and discuss what you would like to your hair
+            to look like and we have the opportunity to see the conditon of your hair before we start chemically treating it.
+        - name: 7 Foil Highlights
+          price: $40.00
+          description: >
+
+        - name: Full Head Highlights
+          price: $100.00
+          description: >
+
+        - name: Partial Head Highlights
+          price: $75.00
+          description: >
+
+        - name: Ombre/Balayage/Free Hand Painting
+          price: $100.00
+          description: >
+
+- position: center
+  groups:
+    - name: Hair Color
+      treatments:
+        - name: PLEASE SCHEDULE FREE CONSULTATION FIRST
+          price: FREE
+          description: >
+            Please schedule a free consultation first, so we can meet and discuss what you would like to your hair
+            to look like and we have the opportunity to see the conditon of your hair before we start chemically treating it.
+        - name: Deep Shine Glazing Treatment
+          price: $45.00
+          description: >
+            Joico LumiShine transforms hair from the inside out with breakthrough ArgiPlex Technology,
+            delivering astonishing shine, color longevity, and overall healthier hair—guaranteed! Your hair will
+            have up to twice the shine. Its nourishing protection that seals in moisture, softness and shine for up
+            to 30 full shampoos leaving your hair 100% replenished and strengthened.
+        - name: Full Head - Single Color - Short Hair
+          price: $60.00
+          description: >
+
+        - name: Full Head Single Color - Med. Hair
+          price: $80.00
+          description: >
+
+        - name: Full Head Single Color - Long Hair
+          price: $100.00
+          description: >
+
+        - name: Retouch - Single Color
+          price: $45.00
+          description: >
+
+        - name: Hair Cut (Add-On) To Color Service
+          price: $20.00
+          description: >
+
+        - name: Hair Color Correction
+          price: $30.00/per hour
+          description: >
