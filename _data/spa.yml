@@ -90,8 +90,8 @@ menu:
 - position: center
   groups:
     - name: Skin Care
-      treatments: N
-        - name: COMING SOO
+      treatments: 
+        - name: Coming Soon
           price: 
           description: >
             
