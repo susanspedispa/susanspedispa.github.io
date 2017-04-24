@@ -71,17 +71,29 @@ menu:
            
     - name: Massage Therapy
       treatments:
-        - name: 30 Min. Therapeutic Massage
+        - name: 30 Min. Integrative Massage
           price: $35.00
           description:
-        - name: 60 Min. Therapeutic Massage
+        - name: 60 Min. Integrative Massage
           price: $65.00
           description:         
-        - name: 90 Min. Therapeutic Massage
+        - name: 90 Min. Integrative Massage
           price: $95.00
           description:           
-        - name: 
-          price: 
+        - name: 30 Min Swedish Massage
+          price: $35.00
+          description: 
+        - name: 60 Min. Swedish Massage
+          price: $65.00
+          description:        
+        - name: 90 Min. Swedish Massage
+          price: $95.00
+          description:        
+        - name: 30 Min. Focused Deep Tissue Massage
+          price: 45.00
+          description:        
+        - name: 60 Min. Deep Tissue Massage
+          price: $75.00
           description: 
 
 - position: center
