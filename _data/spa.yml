@@ -45,13 +45,6 @@ menu:
         - name: Eyebrows & Lip
           price: $30.00
           description: 
-        - name: Eyebrows & Lip
-          price: $30.00
-          description: 
-
-
-
-
 
 - position: right
   groups:
@@ -99,7 +92,7 @@ menu:
 - position: center
   groups:
     - name: Skin Care
-      treatments:
+      treatments: COMING SOON
         - name: 
           price: 
           description: >
