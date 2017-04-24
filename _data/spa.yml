@@ -43,9 +43,6 @@ menu:
           price: $12.00
           description:
           
-        - name: Eyebrows & Lip
-          price: $30.00
-          description: 
 
 - position: right
   groups:
