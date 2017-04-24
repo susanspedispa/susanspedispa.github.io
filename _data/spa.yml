@@ -41,7 +41,8 @@ menu:
           
         - name: Feet & Toes
           price: $12.00
-          description: 
+          description:
+          
         - name: Eyebrows & Lip
           price: $30.00
           description: 
@@ -121,6 +122,3 @@ menu:
           price: $.00
           description: >
 
-        - name: 
-          price: $
-          description: >
