@@ -11,7 +11,7 @@ menu:
           price: $30.00
           description: 
           
-        - name: Lip
+        - name: Lip Only
           price: $12.00
           description: 
           
@@ -19,7 +19,7 @@ menu:
           price: $25.00
           description: 
           
-        - name: Chin
+        - name: Chin Only
           price: $15.00
           description:
           
