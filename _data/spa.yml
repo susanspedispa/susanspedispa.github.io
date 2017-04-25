@@ -87,35 +87,36 @@ menu:
           price: $75.00
           description: 
 
-- position: center
-  groups:
-    - name: Skin Care
-      treatments: 
-        - name: Coming Soon
-          price: 
-          description: >
-            
-        - name: 
-          price: $.00
-          description: >
-            .
-        - name: 
-          price: $.00
-          description: >
-
-        - name: 
-          price: $.00
-          description: >
-
-        - name: 
-          price: $.00
-          description: >
-
-        - name: 
-          price: $.00
-          description: >
-
-        - name: 
-          price: $.00
-          description: >
-
+#- position: center
+#  groups:
+#    - name: Skin Care
+#      treatments: 
+#        - name: Coming Soon
+#          price: 
+#          description: >
+#            
+#       - name: 
+#          price: $.00
+#          description: >
+#            .
+#       - name: 
+#         price: $.00
+#         description: >
+#
+#       - name: 
+#         price: $.00
+#         description: >
+#
+#       - name: 
+#         price: $.00
+#         description: >
+#
+#       - name: 
+#         price: $.00
+#         description: >
+#
+#       - name: 
+#         price: $.00
+#         description: >
+#
+#
