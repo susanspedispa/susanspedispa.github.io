@@ -1,11 +1,9 @@
 name: Susan's Pedi Spa
-highlighter: pygments
+highlighter: rouge
 makdown: kramdown
 
 profiles:
   - Susan
-  - Michele
-  - Schyenne
 
 phone_number: "(928) 362-0525"
 address: "604 N. Beaver St., Flagstaff, AZ 86001"
