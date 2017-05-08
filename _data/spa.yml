@@ -61,7 +61,21 @@ menu:
           
         - name: Underarms
           price: $30.00
-          description:              
+          description: 
+          
+    - name: Tinting Treatments
+      treatments:
+        - name: Brow Tint
+          price: $15.00
+          description: 
+            
+        - name: Lash Tint
+          price: $25.00
+          description: 
+
+        - name: Lash & Brow Tint
+          price: $35.00
+          description:  
 
 - position: right
   groups:
