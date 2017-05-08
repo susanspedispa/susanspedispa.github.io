@@ -3,29 +3,53 @@ menu:
   groups:
     - name: Waxing Treatments
       treatments:
-        - name: Eyebrows
-          price: $18.00
-          description: 
+        - name: Bikini 
+          price: $40
+          description:
+          
+        - name: Brazilian - Full
+          price: $70
+          description:
 
-        - name: Eyebrows & Lip
-          price: $30.00
+        - name: Brizilian Clean-Up
+          price: $50.00
+          description:
+
+        - name: Chin Only
+          price: $15.00
           description: 
           
-        - name: Lip Only
+        - name: Eyebrows & Lip
+          price: $30.00
+          description:
+          
+        - name: Eyebrows
+          price: $18.00
+          description:
+          
+        - name: Eyebrow Wax & Tint
+          price: $30.00
+          description:         
+          
+        - name: Feet & Toes
           price: $12.00
-          description: 
+          description:
+          
+        - name: Full Face
+          price: $50.00
+          description:         
+  
+        - name: Full Legs
+          price: $70.00
+          description:
           
         - name: Lip & Chin
           price: $25.00
-          description: 
-          
-        - name: Chin Only
-          price: $15.00
+          description:   
+  
+        - name: Lip Only
+          price: $12.00
           description:
-          
-        - name: Underarms
-          price: $30.00
-          description: 
           
         - name: Lower Arms
           price: $40.00
@@ -35,13 +59,12 @@ menu:
           price: $45.00
           description: 
           
-        - name: Full Legs
-          price: $70.00
-          description: 
+         - name: Underarms
+          price: $30.00
+          description:          
+ 
           
-        - name: Feet & Toes
-          price: $12.00
-          description:
+
           
 
 - position: right
