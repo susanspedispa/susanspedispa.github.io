@@ -78,21 +78,7 @@ menu:
           description:  
 
 - position: right
-  groups:
-    - name: Tinting Treatments
-      treatments:
-        - name: Brow Tint
-          price: $15.00
-          description: 
-            
-        - name: Lash Tint
-          price: $25.00
-          description: 
-
-        - name: Lash & Brow Tint
-          price: $35.00
-          description:  
-           
+  groups:        
     - name: Massage Therapy
       treatments:
         - name: 30 Min. Integrative Massage
