@@ -3,10 +3,6 @@ menu:
   groups:
     - name: Fizzy Bella Pedicures
       treatments:
-        - name: Orange Blossom
-          price: $60.00 - $65.00
-          description: >
-           The fresh invigorating scent of sweet orange blossoms will sooth your skin and indulge your senses!
         - name: Spring Garden
           price: $60.00 - $65.00
           description: >
