@@ -105,6 +105,38 @@ menu:
         - name: 60 Min. Deep Tissue Massage
           price: $75.00
           description: 
+          
+    - name: Waxing for Men
+      treatments:
+        - name: Men's Chest Wax
+          price: $45+
+          description:
+        - name: Men's Eyebrow Clean-Up
+          price: $8.00
+          description:        
+        - name: Men's Full Back Wax
+          price: $60+
+          description:   
+        - name: Men's Lower Back Wax
+          price: $40+
+          description:
+        - name: Men's Shoulder Wax
+          price: $25+
+          description:          
+        - name: Men's Stomach Wax
+          price: $35+
+          description:         
+        - name: Men's Upper Back Wax
+          price: $30+
+          description:            
+        - name: Neck Wax
+          price: $20.00
+          description:            
+        - name: Full Arm Wax
+          price: $55.00
+          description:        
+      
+      
 
 #- position: center
 #  groups:
