@@ -135,41 +135,29 @@ menu:
         - name: Full Arm Wax
           price: $55.00
           description:        
-      
-      
 
 - position: center
   groups:
     - name: Skin Care
-      treatments: 
+       treatments: 
         - name: Five Phase Firming Facial
           price: $115.00 
-          description: > Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
+          description: Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
           invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
-          Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.
-#            
-#       - name: 
-#          price: $.00
-#          description: >
-#            .
-#       - name: 
-#         price: $.00
-#         description: >
-#
-#       - name: 
-#         price: $.00
-#         description: >
-#
-#       - name: 
-#         price: $.00
-#         description: >
-#
-#       - name: 
-#         price: $.00
-#         description: >
-#
-#       - name: 
-#         price: $.00
-#         description: >
-#
-#
+          Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
+
+       - name: Four-Layer Hydrating Facial 
+          price: $95.00
+          description: >
+            
+       - name: Opti-Firm Eye Treatment
+         price: $40.00
+         description: >
+
+       - name: Opti-Firm Eye Treatment - ADD-ON
+         price: $25.00
+         description: >
+
+
+
+
