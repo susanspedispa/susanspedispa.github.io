@@ -142,9 +142,10 @@ menu:
       treatments: 
         - name: Five Phase Firming Facial
           price: $115.00 
-          description: Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
-          invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
-          Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
+          description: >
+            Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
+            invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
+            Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
 
         - name: Four-Layer Hydrating Facial 
           price: $95.00
@@ -152,12 +153,14 @@ menu:
             
         - name: Opti-Firm Eye Treatment
           price: $40.00
-          description: > Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. 30 minute treatment. 
+          description: > 
+            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. 30 minute treatment. 
 
         - name: Opti-Firm Eye Treatment - ADD-ON
           price: $25.00
-          description: >Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. Can be done during a wax
-          or facial tratment.
+          description: >
+            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. Can be done during a wax
+            or facial tratment.
 
 
 
