@@ -139,7 +139,7 @@ menu:
 - position: center
   groups:
     - name: Skin Care
-       treatments: 
+      treatments: 
         - name: Five Phase Firming Facial
           price: $115.00 
           description: Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
@@ -152,11 +152,12 @@ menu:
             
        - name: Opti-Firm Eye Treatment
          price: $40.00
-         description: >
+         description: > Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. 30 minute treatment. 
 
        - name: Opti-Firm Eye Treatment - ADD-ON
          price: $25.00
-         description: >
+         description: >Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. Can be done during a wax
+         or facial tratment.
 
 
 
