@@ -98,21 +98,6 @@ menu:
 
 - position: center
   groups:
-    - name: Shellac Pedicures
-      treatments:
-        - name: Hot Towel Shellac Pedicure
-          price: $65.00
-          description: >
-            A dry pedicure done with hot towels and light callus smoothing. This treatment is finished off
-            with a light massage. Walk out the door with warm, dry toes during the cold winter months.
-        - name: Shellac Pedi Plus
-          price: $85.00
-          description: >
-            Pamper your feet in with a warm water soak, delightful scrub on your legs and feet and extended massage
-            after the Shellac Polish has been applied to toes. Please know that this service will take close to
-            90 minutes so please plan accordingly.
-- position: center
-  groups:
     - name: Foot Massage
       treatments:
         - name: 30 Minute - Tired Legs & Feet
