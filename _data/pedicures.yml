@@ -1,12 +1,6 @@
 menu:
 - position: left
   groups:
-    - name: Fizzy Bella Pedicures
-      treatments:
-        - name: Spring Garden
-          price: $60.00 - $65.00
-          description: >
-            Enduldge in the lovely and inviting scent of a floral spring basket.
     - name: Signature Pedicures
       treatments:
         - name: Cabana Boy 
