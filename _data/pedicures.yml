@@ -3,6 +3,19 @@ menu:
   groups:
     - name: Signature Pedicures
       treatments:
+        - name: Premium Pedicure 
+          price: $70.00
+          description: >
+           You receive all the features of the standard pedicure but you’ll have the added benefits of an organic soak, 
+           luxurious scrub and our creamy lotion with along with a longer massage. Approximately 75 minutes. This is equivalent
+           in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
+           stock.
+        - name: Premium Plus Pedicure 
+          price: $85.00
+          description: >
+           This is by far our most relaxing pedicure and takes 90 minutes, features everything the Premium pedicure offers and adds
+           an amazing hot mud mask that is applied to your ankles, heels and feet infused with 72 trace minerals to deeply moisturize 
+           your skin.   
         - name: Cabana Boy 
           price: $75.00
           description: >
@@ -73,16 +86,18 @@ menu:
   groups:
     - name: Foot Massage
       treatments:
-        - name: 30 Minute - Tired Legs & Feet
+        - name: 30-Minute - Tired Legs & Feet
           price: $35.00
           description: >
              Do your feet need a little TLC? This will make them feel right as rain. Sit back and relax in our massage
-             chair for a 10 min foot soak then receive a 10 minute massage on each lower leg and foot. ** No Polish or Nail Care**
-        - name: 30 Min - Tired Legs & Feet w/Polish
+             chair for a 10-minute foot soak then receive a 10 minute massage on each lower leg and foot. ** No Polish or Nail Care**
+        - name: 20-Minute - Tired Legs & Feet w/Polish
           price: $40.00
           description: >
-             Feet in need of a little TLC? This will make them feel right as rain. Sit back enjoy our new HumanTouch
-             massage chair while your feet relax in our tension releasing foot soak then receive a 10 minute massage
-             on each lower leg and foot. Afterwords we will polish your nails to perfection!
+             Feet in need of a little TLC? This will make them feel right as rain. Sit back enjoy our HumanTouch
+             massage chair while your feet relax in our tension releasing foot soak then receive a 10-minute massage
+             on each lower leg and foot. Afterwards we will polish your nails. Keep in mind that no trimming, no callus 
+             or cuticle work is done on the toes prior to polishing. Therefore, the polish will not last the 4-6 week it would 
+             normally last like our true pedicures.
 
 
