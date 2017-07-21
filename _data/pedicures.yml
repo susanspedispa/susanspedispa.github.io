@@ -4,14 +4,14 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure 
-          price: $70.00
+          price: $65.00 - $70.00
           description: >
            You receive all the features of the standard pedicure but you’ll have the added benefits of an organic soak, 
            luxurious scrub and our creamy lotion with along with a longer massage. Approximately 75 minutes. This is equivalent
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: $85.00
+          price: $75.00 - $85.00
           description: >
            This is by far our most relaxing pedicure and takes 90 minutes, features everything the Premium pedicure offers and adds
            an amazing hot mud mask that is applied to your ankles, heels and feet infused with 72 trace minerals to deeply moisturize 
