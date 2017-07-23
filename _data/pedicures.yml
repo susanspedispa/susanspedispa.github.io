@@ -3,8 +3,11 @@ menu:
   groups:
     - name: Signature Pedicures
       treatments:
-        - name: Premium Pedicure 
-          price: $65.00 - $70.00
+        - name: Premium Pedicure
+          price: $60 - $70
+          prices:
+            Leo: $60
+            Susan: $70
           description: >
            You receive all the features of the standard pedicure but you’ll have the added benefits of an organic soak, 
            luxurious scrub and our creamy lotion with along with a longer massage. Approximately 75 minutes. This is equivalent
@@ -12,6 +15,9 @@ menu:
            stock.
         - name: Premium Plus Pedicure 
           price: $75.00 - $85.00
+          prices:
+            Leo: $75
+            Susan: $85
           description: >
            This is by far our most relaxing pedicure and takes 90 minutes, features everything the Premium pedicure offers and adds
            an amazing hot mud mask that is applied to your ankles, heels and feet infused with 72 trace minerals to deeply moisturize 
@@ -43,7 +49,7 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Leo - $55.00 - Susan - $60.00
+          price: Leo - $45.00 - Susan - $60.00
           description: >
             Soak, trim and shape nails, cuticle clean up, callus smoothing, massage and polish.
             A standard pedicure is designed as a maintenance pedicure. - (@60 min.)
