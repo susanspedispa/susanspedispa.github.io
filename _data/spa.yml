@@ -115,14 +115,14 @@ menu:
     - name: Skin Care
       treatments: 
         - name: Five Phase Firming Facial
-          price: $115.00 
+          price: $99.00 
           description: >
             Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
             invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
             Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
 
         - name: Four-Layer Hydrating Facial 
-          price: $95.00
+          price: $75.00
           description: >
             The premier anti-aging treatment. Experience four layers of rejuvenating seaweed rich in 12 vitamins and phlorotannins, 42 trace
             elements, minerals, and 18 amino acids to help reduce wrinkles, firm and contour. See the difference; cleaner, healthier, younger looking skin.
