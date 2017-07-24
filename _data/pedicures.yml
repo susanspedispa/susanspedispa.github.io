@@ -4,7 +4,7 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: $60 - $70
+          price: Leo - $60.00 Susan - $70.00
           prices:
             Leo: $60
             Susan: $70
@@ -14,7 +14,7 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: $75.00 - $85.00
+          price: Leo - $75.00 Susan - $85.00
           prices:
             Leo: $75
             Susan: $85
@@ -102,7 +102,7 @@ menu:
              Do your feet need a little TLC? This will make them feel right as rain. Sit back and relax in our massage
              chair for a 10-minute foot soak then receive a 10 minute massage on each lower leg and foot. ** No Polish or Nail Care**
         - name: 20-Minute - Tired Legs & Feet w/Polish
-          price: $40.00
+          price: $45.00
           description: >
              Feet in need of a little TLC? This will make them feel right as rain. Sit back enjoy our HumanTouch
              massage chair while your feet relax in our tension releasing foot soak then receive a 10-minute massage
