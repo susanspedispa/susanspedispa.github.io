@@ -4,7 +4,7 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: Leo - $60.00 Susan - $70.00
+          price: Leo - $60.00; Susan - $70.00
           prices:
             Leo: $60
             Susan: $70
@@ -14,7 +14,7 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: Leo - $75.00 Susan - $85.00
+          price: Leo - $75.00; Susan - $85.00
           prices:
             Leo: $75
             Susan: $85
@@ -49,7 +49,10 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Leo - $45.00 - Susan - $60.00
+          price: Leo - $45.00; Susan - $60.00
+          prices:
+            Leo: $45
+            Susan: $60
           description: >
             Soak, trim and shape nails, cuticle clean up, callus smoothing, massage and polish.
             A standard pedicure is designed as a maintenance pedicure. - (@60 min.)
