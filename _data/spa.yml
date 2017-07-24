@@ -114,6 +114,14 @@ menu:
   groups:
     - name: Skin Care
       treatments: 
+        - name: Express Facial
+          price: $60.00 
+          description: >
+            Exposure to the sun, pollution and daily grime leaves the skin sensitive and dehydrated.Gentle cleansing with a 
+            milk and honey mask followed by a soothing massage with a serum rich in Vitamin C, minerals and proteins. 
+            The facial ends with a cooling and soothing fresh seaweed mask. Skin is clean, refreshed, healthy and vibrant. 
+            This treatment is recommended for all skin types.
+            
         - name: Five Phase Firming Facial
           price: $99.00 
           description: >
