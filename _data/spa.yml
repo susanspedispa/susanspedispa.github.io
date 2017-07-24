@@ -75,11 +75,48 @@ menu:
 
         - name: Lash & Brow Tint
           price: $35.00
-          description:  
+          description:          
 
+- position: right
+  groups:
+    - name: Skin Care
+      treatments: 
+        - name: Express Facial
+          price: $60.00 
+          description: >
+            Exposure to the sun, pollution and daily grime leaves the skin sensitive and dehydrated.Gentle cleansing with a 
+            milk and honey mask followed by a soothing massage with a serum rich in Vitamin C, minerals and proteins. 
+            The facial ends with a cooling and soothing fresh seaweed mask. Skin is clean, refreshed, healthy and vibrant. 
+            This treatment is recommended for all skin types.
+        - name: Five Phase Firming Facial
+          price: $99.00 
+          description: >
+            Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
+            invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
+            Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
+        - name: Four-Layer Hydrating Facial 
+          price: $75.00
+          description: >
+            The premier anti-aging treatment. Experience four layers of rejuvenating seaweed rich in 12 vitamins and phlorotannins, 42 trace
+            elements, minerals, and 18 amino acids to help reduce wrinkles, firm and contour. See the difference; cleaner, healthier, younger looking skin.  
+        - name: Hydra Medic Facial 
+          price: $99.00
+          description: >
+            Deep pore cleaning, purifies and controls existing breakouts while helping to prevent new ones from forming. Reduces oil 
+            from overly active sebaceous glands, while maintaining skin moisture balance. This pure and refining treatment allows 
+            cleaning deep down while soothing and healing lesions, leaving skin with renewed freshness and purity.
+        - name: Opti-Firm Eye Treatment
+          price: $40.00
+          description: > 
+            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. 30 minute treatment. 
+        - name: Opti-Firm Eye Treatment - ADD-ON
+          price: $25.00
+          description: >
+            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. Can be done during a wax
+            or facial tratment.
+            
 - position: center
-  groups:        
-          
+  groups:     
     - name: Waxing for Men
       treatments:
         - name: Men's Chest Wax
@@ -108,51 +145,4 @@ menu:
           description:            
         - name: Full Arm Wax
           price: $55.00
-          description:        
-
-- position: right
-  groups:
-    - name: Skin Care
-      treatments: 
-        - name: Express Facial
-          price: $60.00 
-          description: >
-            Exposure to the sun, pollution and daily grime leaves the skin sensitive and dehydrated.Gentle cleansing with a 
-            milk and honey mask followed by a soothing massage with a serum rich in Vitamin C, minerals and proteins. 
-            The facial ends with a cooling and soothing fresh seaweed mask. Skin is clean, refreshed, healthy and vibrant. 
-            This treatment is recommended for all skin types.
-            
-        - name: Five Phase Firming Facial
-          price: $99.00 
-          description: >
-            Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
-            invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
-            Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
-
-        - name: Four-Layer Hydrating Facial 
-          price: $75.00
-          description: >
-            The premier anti-aging treatment. Experience four layers of rejuvenating seaweed rich in 12 vitamins and phlorotannins, 42 trace
-            elements, minerals, and 18 amino acids to help reduce wrinkles, firm and contour. See the difference; cleaner, healthier, younger looking skin.
-            
-        - name: Hydra Medic Facial 
-          price: $99.00
-          description: >
-            Deep pore cleaning, purifies and controls existing breakouts while helping to prevent new ones from forming. Reduces oil 
-            from overly active sebaceous glands, while maintaining skin moisture balance. This pure and refining treatment allows 
-            cleaning deep down while soothing and healing lesions, leaving skin with renewed freshness and purity.
-            
-        - name: Opti-Firm Eye Treatment
-          price: $40.00
-          description: > 
-            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. 30 minute treatment. 
-
-        - name: Opti-Firm Eye Treatment - ADD-ON
-          price: $25.00
-          description: >
-            Clinically proven ingredients work to reduce wrinkles, puffiness and dark circles around the eye area. Can be done during a wax
-            or facial tratment.
-
-
-
-
+          description: 
