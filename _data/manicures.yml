@@ -4,11 +4,17 @@ menu:
     - name: Manicure
       treatments:
         - name: Standard Manicure
-          price: $30.00 - $32.00
+          price: Leo: $30.00; Susan: $32.00
+          prices:
+            Leo: $30
+            Susan: $32
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
-          price: $35.00 - $40.00
+          price: Leo: $35.00; Susan $40.00
+          prices:
+            Leo: $35
+            Susan: $40
           description: >
             Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.
 
@@ -42,6 +48,10 @@ menu:
           description: >
             You can request nail art, which includes stamping, handpainting, crystals, stenciles, please have something
             in mind when you arrive such as photos etc.
+        - name: French Tips
+          price: $15.00
+          description: >
+            White or colored tips added to any polish.
         - name: Gel Polish Removal (ADD-ON)
           price: $10.00+
           description: >
