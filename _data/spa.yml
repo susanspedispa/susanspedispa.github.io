@@ -77,7 +77,7 @@ menu:
           price: $35.00
           description:  
 
-- position: right
+- position: center
   groups:        
           
     - name: Waxing for Men
@@ -110,7 +110,7 @@ menu:
           price: $55.00
           description:        
 
-- position: center
+- position: right
   groups:
     - name: Skin Care
       treatments: 
@@ -134,6 +134,13 @@ menu:
           description: >
             The premier anti-aging treatment. Experience four layers of rejuvenating seaweed rich in 12 vitamins and phlorotannins, 42 trace
             elements, minerals, and 18 amino acids to help reduce wrinkles, firm and contour. See the difference; cleaner, healthier, younger looking skin.
+            
+        - name: Hydra Medic Facial 
+          price: $99.00
+          description: >
+            Deep pore cleaning, purifies and controls existing breakouts while helping to prevent new ones from forming. Reduces oil 
+            from overly active sebaceous glands, while maintaining skin moisture balance. This pure and refining treatment allows 
+            cleaning deep down while soothing and healing lesions, leaving skin with renewed freshness and purity.
             
         - name: Opti-Firm Eye Treatment
           price: $40.00
