@@ -76,7 +76,7 @@ menu:
         - name: Lash & Brow Tint
           price: $35.00
           description:          
-  groups:     
+    
     - name: Waxing for Men
       treatments:
         - name: Men's Chest Wax
