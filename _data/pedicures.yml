@@ -4,7 +4,7 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: Dee Dee - $60.00; Susan - $70.00
+          price: Susan - $70.00
           prices:
             Leo: $60
             Susan: $70
@@ -14,7 +14,7 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: Dee Dee - $75.00; Susan - $85.00
+          price: Susan - $85.00
           prices:
             Leo: $75
             Susan: $85
@@ -49,7 +49,7 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Dee Dee - $45.00; Susan - $60.00
+          price: Susan - $60.00
           prices:
             Leo: $45
             Susan: $60
