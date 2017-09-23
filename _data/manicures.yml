@@ -4,14 +4,14 @@ menu:
     - name: Manicure
       treatments:
         - name: Standard Manicure
-          price: Dee Dee $30.00; Susan $32.00
+          price: Susan $32.00
           prices:
             Leo: $30
             Susan: $32
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
-          price: Dee Dee $35.00; Susan $40.00
+          price: Susan $40.00
           prices:
             Leo: $35
             Susan: $40
