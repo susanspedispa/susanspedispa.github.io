@@ -4,9 +4,9 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: Susan - $70.00
+          price: Susan - $70.00 Emily - $60.00
           prices:
-            Leo: $60
+            Emily: $60
             Susan: $70
           description: >
            You receive all the features of the standard pedicure but you’ll have the added benefits of an organic soak, 
@@ -14,9 +14,9 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: Susan - $85.00
+          price: Susan - $85.00 Emily - $75.00
           prices:
-            Leo: $75
+            Emily: $75
             Susan: $85
           description: >
            This is by far our most relaxing pedicure and takes 90 minutes, features everything the Premium pedicure offers and adds
@@ -37,7 +37,7 @@ menu:
            Finally, we will massage away any left over stress in your legs and feet using our unique blend of Ayurveda oils
            to balancing the body.
         - name: Tuscan Bouquet
-          price: $75.00
+          price: Susan - $75.00 Emily - $70.00
           description: >
            Unwind with the scents a of Lavender, Chamomile, Bergamot, Sandalwood, Vanilla and White Rose essential oils.
            All known to help ease stress and relax tension out of the body. This pedicure comes with a dead sea salt soak,
@@ -49,7 +49,7 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Susan - $60.00
+          price: Susan - $60.00 Emily - $50.00
           prices:
             Leo: $45
             Susan: $60
