@@ -11,7 +11,7 @@ menu:
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
-          price: Susan $40 Emily $35 Janet $35
+          price: Susan $40 Emily $36 Janet $35
           prices:
             Leo: $35
             Susan: $40
