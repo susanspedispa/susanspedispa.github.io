@@ -4,14 +4,14 @@ menu:
     - name: Manicure
       treatments:
         - name: Standard Manicure
-          price: Susan $32.00 Emily $30.00 Janet $28.00
+          price: Susan $32 Emily $32 Janet $32
           prices:
             Emily: $30
             Susan: $32
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
-          price: Susan $40.00 Emily $35.00 Janet $32.50
+          price: Susan $40 Emily $35 Janet $35
           prices:
             Leo: $35
             Susan: $40
@@ -22,7 +22,7 @@ menu:
     - name: Manicure Add-ons
       treatments:
         - name: Aloe Vera Paraffin Dip - Hands
-          price: $7.00
+          price: $7.50
           description: >
             Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
             infused warm paraffin wax designed to moisturize and sooth sore dry hands.
