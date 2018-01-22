@@ -37,7 +37,7 @@ menu:
            Finally, we will massage away any left over stress in your legs and feet using our unique blend of Ayurveda oils
            to balancing the body.
         - name: Tuscan Bouquet
-          price: Susan $75 Emily $70
+          price: Susan $75 Emily $70 Janet $60
           description: >
            Unwind with the scents a of Lavender, Chamomile, Bergamot, Sandalwood, Vanilla and White Rose essential oils.
            All known to help ease stress and relax tension out of the body. This pedicure comes with a dead sea salt soak,
@@ -80,7 +80,7 @@ menu:
     - name: Add-Ons
       treatments:
         - name: Aloe Vera Paraffin Dip - Hands
-          price: $7.00
+          price: $7.50
           description: >
             Treat your hands to a little TLC while your feet are getting pampered in our deeply moisturizing Aloe
             infused warm paraffin wax designed to moisturize and sooth sore dry hands.
