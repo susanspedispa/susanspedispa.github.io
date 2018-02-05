@@ -3,6 +3,10 @@ menu:
   groups:
     - name: Hair Cuts & Styling
       treatments:
+        - name: Braid Add-on 
+          price: $7.00
+          description: >
+          
         - name: Hair Cut
           price: $30.00
           description: >
@@ -11,8 +15,8 @@ menu:
           price: $65.00
           description: >
           
-        - name: Special Occasion Updo 
-          price: By hair length $40.00 to $70.00
+        - name: Braid Add-on 
+          price: $7.00
           description: >
 
         - name: Kid's Cut (7-12yrs)
@@ -28,9 +32,11 @@ menu:
           description: >
             No matter what shape your hair is in, help is on the way. Our special Moroccan hydrating mask will turn your tired,
             dry hair into smooth silky locks. The deep penetrating Argon oil replaces the moisture thats been lost, gives your
-            hair that beautiful shine back and helps it to regain the elasticity you need to keep it from breaking. It's a MUST
-            for everyone hair during these cold dry winter months.
-
+            hair that beautiful shine back and helps it to regain the elasticity you need to keep it from breaking.
+            
+        - name: Special Occasion Updo 
+          price: By hair length $40.00 to $70.00
+          description: >
 
 
 - position: right
