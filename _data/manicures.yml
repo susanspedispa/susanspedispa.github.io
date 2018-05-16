@@ -5,16 +5,10 @@ menu:
       treatments: WE DO NOT DO ACRYLICS
         - name: Standard Manicure
           price: Susan $32 Emily $32 Janet $32
-          prices:
-            Emily: $30
-            Susan: $32
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
           price: Susan $40 Emily $36 Janet $35
-          prices:
-            Leo: $35
-            Susan: $40
           description: >
             Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.
 
