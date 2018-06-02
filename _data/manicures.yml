@@ -2,7 +2,7 @@ menu:
 - position: center
   groups:
     - name: Manicure
-      treatments: WE DO NOT DO ACRYLICS
+      treatments:
         - name: Standard Manicure
           price: Susan $32 Emily $32 Janet $32
           description: >
