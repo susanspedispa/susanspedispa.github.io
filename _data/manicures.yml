@@ -11,8 +11,6 @@ menu:
           price: Susan $40 Emily $36 Janet $35
           description: >
             Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.
-
-
     - name: Manicure Add-ons
       treatments:
         - name: Aloe Vera Paraffin Dip - Hands
