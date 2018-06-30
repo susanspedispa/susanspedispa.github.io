@@ -4,9 +4,8 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: Susan $70 Emily $60 Janet $50
+          price: Susan $70 Janet $50
           prices:
-            Emily: $60
             Susan: $70
           description: >
            You receive all the features of the standard pedicure but you’ll have the added benefits of an organic soak, 
@@ -14,30 +13,22 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: Susan $85 Emily $75
+          price: Susan $85 Janet $75
           prices:
-            Emily: $75
+            Janet: $75
             Susan: $85
           description: >
            This is by far our most relaxing pedicure and takes 90 minutes, features everything the Premium pedicure offers and adds
            an amazing hot mud mask that is applied to your ankles, heels and feet infused with 72 trace minerals to deeply moisturize 
            your skin.   
         - name: Warm Apple Cider (Seasonal)
-          price: Susan $70 Emily $60 Janet $50
+          price: Susan $70 Janet $50
           description: >
            Revitalize with this deliciously tempting scent – it’s a tangy, fruity garden of delight. Inspired from ingredients like
            Red & Green Apple, Almond, Cinnamon, Hawthorn and Carnations. It will nourish your skin with 72 trace minerals leaving 
            you softer, glowing and hydrated. Served with hot Spiced Apple Cider!        
-        - name: Lavender Bouquet
-          price: $75.00
-          description: >
-           Relax your body and mind with our fresh new Lavender Pedicure. First soak in the restorative properties of the;
-           Dead Sea,  Mineral salts, Epsom salts and essential oils. Then we will whisk away old dry skin with our soothing
-           salt scrub which contains Lavender, Green Tea, and St. Johns Wart to aid in reducing stress and anxiety.
-           Finally, we will massage away any left over stress in your legs and feet using our unique blend of Ayurveda oils
-           to balancing the body.
         - name: Tuscan Bouquet
-          price: Susan $75 Emily $70 Janet $60
+          price: Susan $75 Janet $60
           description: >
            Unwind with the scents a of Lavender, Chamomile, Bergamot, Sandalwood, Vanilla and White Rose essential oils.
            All known to help ease stress and relax tension out of the body. This pedicure comes with a dead sea salt soak,
@@ -49,9 +40,9 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Susan $60 Emily $50 Janet $40
+          price: Susan $60 Janet $40
           prices:
-            Emily: $50
+            Janet: $50
             Susan: $60
           description: >
             Soak, trim and shape nails, cuticle clean up, callus smoothing, massage and polish.
