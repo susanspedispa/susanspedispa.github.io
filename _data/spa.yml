@@ -112,7 +112,7 @@ menu:
     - name: Skin Care
       treatments: 
         - name: Express Facial
-          price: $ 
+          price: $48.50
           description: >
             Need a facial but short on time? This quick, yet highly personalized treatment will cleanse, exfoliate and revitalize 
             your skin in just 30 minutes. Have your pores deep cleansed and extracted or enjoy a skin rejuvenating facial massage. 
@@ -139,7 +139,7 @@ menu:
             invigorating exfoliation and Youth Renewal Massage, your skin will be saturated with a powerful amino acid power 
             treatment to help support skin’s youth collagen and elastin performance – so lines appear filled, skin looks firmer, and 
             acts years younger. You’ll emerge with improved line appearance, and renewed, firmer and more dewy skin.
-        - name: firm and Lift Facial - COMING SOON -  
+        - name: Firm and Lift Facial - COMING SOON -  
           price: $
           description: >
             A one-of-a-kind treatment designed to lift and sculpt the look of sagging, aging skin. A SkinReading® consultation will 
