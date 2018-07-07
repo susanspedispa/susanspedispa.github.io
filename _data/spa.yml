@@ -112,29 +112,41 @@ menu:
     - name: Skin Care
       treatments: 
         - name: Express Facial
-          price: $60.00 
+          price: $ 
           description: >
-            Exposure to the sun, pollution and daily grime leaves the skin sensitive and dehydrated.Gentle cleansing with a 
-            milk and honey mask followed by a soothing massage with a serum rich in Vitamin C, minerals and proteins. 
-            The facial ends with a cooling and soothing fresh seaweed mask. Skin is clean, refreshed, healthy and vibrant. 
+            Need a facial but short on time? This quick, yet highly personalized treatment will cleanse, exfoliate and revitalize 
+            your skin in just 30 minutes. Have your pores deep cleansed and extracted or enjoy a skin rejuvenating facial massage. 
+            Your choice! Either way, you’ll experience a treatment that leaves your skin feeling clean, smooth and revitalized.
             This treatment is recommended for all skin types.
-        - name: Five Phase Firming Facial
-          price: $99.00 
+        - name: Custom Blend Facial
+          price: $62.00 - 30 Min or $90.00 - 60 Min. 
           description: >
-            Perfect for dry or mature skin. Provides an instant trigger to younger looking skin. Specifically designed to
-            invigorate, lift and firm mature skin. An Enzymatic Micropeel helps uncover a vibrant complexion. Two massages and a cool 
-            Spirulina Seaweed Mask with clinically proven bio-mimetic Pentapeptide firm and smooth the skin.            
-        - name: Four-Layer Hydrating Facial 
-          price: $75.00
+            There’s no facial more personalized to your needs than this. Each step is a fusion of science, natural botanicals, 
+            aromatherapist oils and luxurious techniques customized with clinical strength ingredients uniquely designed to deliver 
+            results. The first step begins with an individualized SkinReading® to determine your concerns and skin goals, followed
+            by invigorating cleansing, exfoliation and skin sedation, a custom blended aromatherapeutic facial massage, plus a power 
+            treatment and mask targeted to your concerns.            
+        - name: Fast Results Peel
+          price: $
           description: >
-            The premier anti-aging treatment. Experience four layers of rejuvenating seaweed rich in 12 vitamins and phlorotannins, 42 trace
-            elements, minerals, and 18 amino acids to help reduce wrinkles, firm and contour. See the difference; cleaner, healthier, younger looking skin.  
-        - name: Hydra Medic Facial 
-          price: $99.00
+            Want smoother, softer, retexturized skin but short on time? This advanced, ultimate-strength ‘quick peel’ contains potent 
+            acids and enzymes, to provide a powerful peeling of dulling surface cells in just 30 minutes! It’s the fastest way to 
+            smooth out fine lines and wrinkles, leaving your skin feeling refreshed and younger looking.  
+        - name: Colllagen Rehab Facial - COMING SOON -
+          price: $
           description: >
-            Deep pore cleaning, purifies and controls existing breakouts while helping to prevent new ones from forming. Reduces oil 
-            from overly active sebaceous glands, while maintaining skin moisture balance. This pure and refining treatment allows 
-            cleaning deep down while soothing and healing lesions, leaving skin with renewed freshness and purity.
+            Rehabilitate your skin’s aging, lined, exhausted appearance with this innovative, collagen-targeted treatment. After an
+            invigorating exfoliation and Youth Renewal Massage, your skin will be saturated with a powerful amino acid power 
+            treatment to help support skin’s youth collagen and elastin performance – so lines appear filled, skin looks firmer, and 
+            acts years younger. You’ll emerge with improved line appearance, and renewed, firmer and more dewy skin.
+        - name: firm and Lift Facial - COMING SOON -  
+          price: $
+          description: >
+            A one-of-a-kind treatment designed to lift and sculpt the look of sagging, aging skin. A SkinReading® consultation will 
+            evaluate your most urgent concerns, followed by deep cleansing and exfoliation to prepare your skin for clinical ingredients.
+            We’ll intensify the treatment with an application of our powerfully active Bioelements Flaxx-C Firming Mask, designed to 
+            lift, tighten and firm the feel of skin. You’ll see and feel the renewing benefits immediately, as poor elasticity, 
+            dullness and lines improve.
         - name: Opti-Firm Eye Treatment
           price: $40.00
           description: > 
