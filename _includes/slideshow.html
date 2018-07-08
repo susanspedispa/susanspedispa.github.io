@@ -6,10 +6,6 @@
 	<div id="next"></div>
 	<div id="prev"></div>
 </div>
-<div id="slidedescription">
-	<h3 style="color:white; text-align: center" id="slideName"></h3>
-	<p id="slideDetails" style="color:white; padding: 10px;"></p>
-</div>
 
 <div style="display:none">
 	<img id="img1" src="/assets/images/slideshow/2015holiday-5.png">
@@ -18,32 +14,12 @@
 </div>
 
 <script>
-	var description = [
-		{
-			"name":"Brazilian Blowout Coming Soon",
-			"description":""
-		},
-		{
-			"name":"Coming Soon",
-			"description":"Brazilian Blowout!"			
-		},
-		{
-			"name":"Dead Sea Arabian Renewal",
-			"description":"This luxurious treatment which combines a wealth of indigenous Arabian ingredients: pomegranate oil, crushed dates, rose water, yogurt, sweet figs with pure Dead Sea Salts and Mud to relieve muscle tension, deeply detoxify the skin saturating it with potent antioxidants."			
-		},
-		
-	]
-	function loadEntry(page) {
-		document.getElementById("slideName").innerHTML = description[page]["name"];
-		document.getElementById("slideDetails").innerHTML = description[page]["description"];
-	}
 	loadEntry(0);
 	var userClick = false;
 	var slideshow = vp.viewPager(document.getElementById("slideshow"));
 	slideshow.addPage(document.getElementById("img1"))
 				.addPage(document.getElementById("img2"))
-				.addPage(document.getElementById("img3"))
-				.addCallback("pageChange", function(page) { loadEntry(page) })
+				.addPage(document.getElementById("img3"));
 	document.getElementById("next").onclick = function() { slideshow.next(); userClick = true; }
 	document.getElementById("prev").onclick = function() { slideshow.prev(); userClick = true; }
 	
