@@ -1,27 +1,24 @@
 <div id="slideholder">
-<div id="slideshow">
-	
-</div>
-
-	<div id="next"></div>
-	<div id="prev"></div>
+<div id="slideshow"></div>
+<div id="next"></div>
+<div id="prev"></div>
 </div>
 
 <div style="display:none">
-	<img id="img1" src="/assets/images/slideshow/2015holiday-5.png">
-	<img id="img2" src="/assets/images/slideshow/bb-logo.jpg">
-	<img id="img3" src="/assets/images/slideshow/arabian.jpg">
+	{% for img in site.data.slideshow %}
+	<img id="img-{{ img }}" src="/assets/images/slideshow/{{ img }}">
+	{% endfor %}
 </div>
 
 <script>
 	var userClick = false;
 	var slideshow = vp.viewPager(document.getElementById("slideshow"));
-	slideshow.addPage(document.getElementById("img1"))
-				.addPage(document.getElementById("img2"))
-				.addPage(document.getElementById("img3"));
+	{% for img in site.data.slideshow %}
+	slideshow.addPage(document.getElementById("img-{{ img }}"));
+	{% endfor %}
 	document.getElementById("next").onclick = function() { slideshow.next(); userClick = true; }
 	document.getElementById("prev").onclick = function() { slideshow.prev(); userClick = true; }
-	
+
 	function autoScroll(oldTime) {
 		var delay = 2000;
 		var currentTime = (new Date()).getTime();

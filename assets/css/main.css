@@ -245,25 +245,14 @@ footer {
   text-align: center;
 }
 
-#slidedescription{
-	float: right;
-	width: 290px;
-	height: 580px;
-	background: rgb(87, 20, 42);
-	border-top-right-radius: 10px;
-	border-bottom-right-radius: 10px;
-}
 #slideshow {
 	position: relative;
-	width: 580px;
-	height: 580px;
-	float: left;
+	width: 100%;
 }
 
 
 #slideholder {
-	position: absolute;
-	border-radius: 10px 0px 0px 10px;
+	border-radius: 10px;
 	overflow: hidden;
 }
 
