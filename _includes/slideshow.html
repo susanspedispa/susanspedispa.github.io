@@ -6,23 +6,26 @@
 
 <div style="display:none">
 	{% for img in site.data.slideshow %}
-	<img id="img-{{ img }}" src="/assets/images/slideshow/{{ img }}">
+	<img id="img-{{ img }}" src="/assets/images/slideshow/{{ img }}" style="object-fit: contain; height: 600px; width: 870px;">
 	{% endfor %}
 </div>
 
 <script>
 	var userClick = false;
-	var slideshow = vp.viewPager(document.getElementById("slideshow"));
+	var slideshowDOM = document.getElementById("slideshow");
+	var slideshow = vp.viewPager(slideshowDOM);
 	{% for img in site.data.slideshow %}
 	slideshow.addPage(document.getElementById("img-{{ img }}"));
 	{% endfor %}
 	document.getElementById("next").onclick = function() { slideshow.next(); userClick = true; }
 	document.getElementById("prev").onclick = function() { slideshow.prev(); userClick = true; }
-
+	function isHover(e) {
+		return (e.parentElement.querySelector(':hover') === e);
+	}
 	function autoScroll(oldTime) {
 		var delay = 2000;
 		var currentTime = (new Date()).getTime();
-		if(userClick) {
+		if(userClick || isHover(slideshowDOM)) {
 			userClick = false;
 			window.setTimeout(function(){ autoScroll(currentTime)}, delay)
 		} else if(currentTime - oldTime > 10000) {
