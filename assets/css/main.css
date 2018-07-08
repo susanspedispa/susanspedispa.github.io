@@ -245,9 +245,19 @@ footer {
   text-align: center;
 }
 
+#slidedescription{
+	float: right;
+	width: 290px;
+	height: 580px;
+	background: rgb(87, 20, 42);
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
 #slideshow {
 	position: relative;
-	width: 100%;
+	width: 580px;
+	height: 580px;
+	float: left;
 }
 
 
@@ -259,7 +269,7 @@ footer {
 
 #next, #prev {
 	width: 50px;
-	min-height: 580px;
+	height: 580px;
 	position: absolute;
 	cursor:pointer;
 
