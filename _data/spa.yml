@@ -111,15 +111,15 @@ menu:
   groups:
     - name: Skin Care
       treatments: 
-        - name: Express Facial
-          price: $48.50
+        - name: Custom Blend Express Facial
+          price: $50.00
           description: >
             Need a facial but short on time? This quick, yet highly personalized treatment will cleanse, exfoliate and revitalize 
             your skin in just 30 minutes. Have your pores deep cleansed and extracted or enjoy a skin rejuvenating facial massage. 
             Your choice! Either way, you’ll experience a treatment that leaves your skin feeling clean, smooth and revitalized.
             This treatment is recommended for all skin types.
         - name: Custom Blend Facial
-          price: $62.00/30 Min or $90.00/60 Min. 
+          price: $90.00/60 Min. 
           description: >
             There’s no facial more personalized to your needs than this. Each step is a fusion of science, natural botanicals, 
             aromatherapist oils and luxurious techniques customized with clinical strength ingredients uniquely designed to deliver 
