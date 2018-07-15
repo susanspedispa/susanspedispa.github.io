@@ -132,6 +132,14 @@ menu:
             Want smoother, softer, retexturized skin but short on time? This advanced, ultimate-strength ‘quick peel’ contains potent 
             acids and enzymes, to provide a powerful peeling of dulling surface cells in just 30 minutes! It’s the fastest way to 
             smooth out fine lines and wrinkles, leaving your skin feeling refreshed and younger looking.  
+        - name: Firm and Lift Facial
+          price: $75/30 Min. $110/75 Min.
+          description: >
+            A one-of-a-kind treatment designed to lift and sculpt the look of sagging, aging skin. A SkinReading® consultation will 
+            evaluate your most urgent concerns, followed by deep cleansing and exfoliation to prepare your skin for clinical ingredients. 
+            We’ll intensify the treatment with an application of our powerfully active Bioelements Flaxx-C Firming Mask, designed to lift, 
+            tighten and firm the feel of skin. You’ll see and feel the renewing benefits immediately, as poor elasticity, dullness and 
+            lines improve.
         - name: VITAMINERAL Deep Detox Facial
           price: $100.00
           description: >
@@ -139,14 +147,6 @@ menu:
             one on-one SkinReading® to assess your individual needs, then customize your treatment right from the start. A deep-down 
             cleanse and exfoliation to help purge impurities will be followed by a detoxing mask to filter out skin-stressing toxins 
             with vitamin C and activated coconut charcoal. 
-        - name: Firm and Lift Facial
-          price: $75/30 Min. $110/60 Min.
-          description: >
-            A one-of-a-kind treatment designed to lift and sculpt the look of sagging, aging skin. A SkinReading® consultation will 
-            evaluate your most urgent concerns, followed by deep cleansing and exfoliation to prepare your skin for clinical ingredients.
-            We’ll intensify the treatment with an application of our powerfully active Bioelements Flaxx-C Firming Mask, designed to 
-            lift, tighten and firm the feel of skin. You’ll see and feel the renewing benefits immediately, as poor elasticity, 
-            dullness and lines improve.
         - name: Opti-Firm Eye Treatment
           price: $40.00
           description: > 
