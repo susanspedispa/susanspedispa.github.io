@@ -4,107 +4,107 @@ menu:
     - name: Waxing Treatments
       treatments:
         - name: Bikini 
-          price: $40
+          price: $42.00
           description:
           
         - name: Brazilian - Full
-          price: $60
+          price: $62.00
           description:
 
         - name: Brazilian Clean-Up
-          price: $50.00
+          price: $52.00
           description:
 
         - name: Chin Only
-          price: $15.00
+          price: $17.00
           description: 
           
         - name: Eyebrows & Lip
-          price: $30.00
+          price: $32.00
           description:
           
         - name: Eyebrows
-          price: $18.00
+          price: $20.00
           description:
           
         - name: Eyebrow Wax & Tint
-          price: $30.00
+          price: $32.00
           description:         
           
         - name: Feet & Toes
-          price: $12.00
+          price: $14.00
           description:
           
         - name: Full Face
-          price: $50.00
+          price: $52.00
           description:         
   
         - name: Full Legs
-          price: $70.00
+          price: $72.00
           description:
           
         - name: Lip & Chin
-          price: $25.00
+          price: $27.00
           description:   
   
         - name: Lip Only
-          price: $12.00
+          price: $14.00
           description:
           
         - name: Lower Arms
-          price: $40.00
+          price: $42.00
           description:
           
         - name: Lower Legs
-          price: $45.00
+          price: $47.00
           description: 
           
         - name: Underarms
-          price: $30.00
+          price: $32.00
           description: 
           
     - name: Tinting Treatments
       treatments:
         - name: Brow Tint
-          price: $18.00
+          price: $20.00
           description: 
             
         - name: Lash Tint
-          price: $25.00
+          price: $27.00
           description: 
 
         - name: Lash & Brow Tint
-          price: $35.00
+          price: $37.00
           description:          
     
     - name: Waxing for Men
       treatments:
         - name: Men's Chest Wax
-          price: $45+
+          price: $47+
           description:
         - name: Men's Eyebrow Clean-Up
-          price: $8.00
+          price: $17.00
           description:        
         - name: Men's Full Back Wax
-          price: $60+
+          price: $62+
           description:   
         - name: Men's Lower Back Wax
-          price: $40+
+          price: $42+
           description:
         - name: Men's Shoulder Wax
-          price: $30+
+          price: $32+
           description:          
         - name: Men's Stomach Wax
-          price: $35+
+          price: $37+
           description:         
         - name: Men's Upper Back Wax
-          price: $30+
+          price: $32+
           description:            
         - name: Neck Wax
-          price: $20.00
+          price: $22.00
           description:            
         - name: Full Arm Wax
-          price: $55.00
+          price: $57.00
           description: 
           
 - position: right
