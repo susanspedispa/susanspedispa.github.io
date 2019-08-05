@@ -4,7 +4,7 @@ menu:
     - name: Signature Pedicures
       treatments:
         - name: Premium Pedicure
-          price: Susan $70 Janet $60 Elaina $55
+          price: Susan $70 Janet $65 Elaina $55
           prices:
             Susan: $70
           description: >
@@ -13,7 +13,7 @@ menu:
            in style to our “weekly Special” in that we will either select a scent for you or offer you a choice depending on current 
            stock.
         - name: Premium Plus Pedicure 
-          price: Susan $85 Janet $75 Elaina $65
+          price: Susan $85 Janet $80 Elaina $65
           prices:
             Janet: $75
             Susan: $85
@@ -22,7 +22,7 @@ menu:
            an amazing hot mud mask that is applied to your ankles, heels and feet infused with 72 trace minerals to deeply moisturize 
            your skin.          
         - name: Tuscan Bouquet
-          price: Susan $75 Janet $65 Elaina $60
+          price: Susan $75 Janet $70 Elaina $60
           description: >
            Unwind with the scents a of Lavender, Chamomile, Bergamot, Sandalwood, Vanilla and White Rose essential oils.
            All known to help ease stress and relax tension out of the body. This pedicure comes with a dead sea salt soak,
@@ -34,7 +34,7 @@ menu:
     - name: Standard Pedicures
       treatments:
         - name: Standard Pedicure
-          price: Susan $60 Janet $50 Elaina $45
+          price: Susan $60 Janet $55 Elaina $45
           prices:
             Janet: $50
             Susan: $60
