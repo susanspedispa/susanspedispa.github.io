@@ -4,11 +4,11 @@ menu:
     - name: Manicure
       treatments:
         - name: Standard Manicure
-          price: Susan & Janet $32 Elaina $30
+          price: Susan, Janet & Elaina $32
           description: >
             Shape nails, push back cuticles, lotion application and polish.
         - name: Shellac Manicure
-          price: Susan $40 Janet $40 Elaina $34
+          price: Susan & Janet $40 Elaina $36
           description: >
             Shellac polish removal, shape nails, cuticle push-back polish and light moisturizing massage.
     - name: Manicure Add-ons
